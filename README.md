@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @maxwellpatricio, graduated in Computer Science, focused in Front-end development.
-- 👀 I’m interested in web development, looking for a chance to work with it.
-- 🌱 I’m currently learning web development, studing Front-end/React.js.
+- 👀 I’m a Front-End Jr developer at AppStorm.
+- 🌱 I’m currently studing and wirking with React.js and Next.js.
 - 📫 To contact me, send me an email (maxwellpatri@gmail.com) or, send me a message on LinkedIn(https://www.linkedin.com/in/maxwell-patricio-724682181/).
 
 <!---
