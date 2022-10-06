@@ -1,7 +1,5 @@
 <p align="left">Hi! My name is Maxwell, i'm a Full-Stack developer! I live in São José dos Campos - SP, Brasil.<br><br>I have a degree in Computer Science, coursed in UNIP and concluded in 2021. Since March 2022, i'm working with web development.</p>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/maxwell-patricio-724682181/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
@@ -14,19 +12,7 @@
   </a>
 </div>
 
-###
-
-
-//<div align="center">
-//  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=maxwellpatricio" height="150" alt="stats graph"  />
- // <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=maxwellpatricio" height="150" alt="languages graph"  />
-//</div>
-
-###
-
 <p align="center">Technologies used and studed by me.</p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
