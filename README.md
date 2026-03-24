@@ -36,7 +36,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NodeJS.svg" height="40" alt="Node.js" />
+  <!-- ✅ Fixed Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React-Dark.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NextJS-Dark.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/PostgreSQL-Dark.svg" height="40" alt="PostgreSQL" />
@@ -44,7 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Docker.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/SAP.svg" height="40" alt="SAP" />
+  <!-- ✅ Fixed SAP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="40" alt="SAP" />
 </p>
 
 ---
