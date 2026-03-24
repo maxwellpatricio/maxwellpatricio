@@ -36,7 +36,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/JavaScript.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/TypeScript.svg" height="40" alt="TypeScript" />
-  <!-- ✅ Fixed Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/React-Dark.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/NextJS-Dark.svg" height="40" alt="Next.js" />
@@ -45,8 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/MongoDB.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Docker.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Git.svg" height="40" alt="Git" />
-  <!-- ✅ Fixed SAP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="40" alt="SAP" />
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" height="40" alt="SAP" />
 </p>
 
 ---
